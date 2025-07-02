@@ -4,10 +4,7 @@
 - 💞️ I’m looking to collaborate on my journey
 - 📫 How to reach me my email duh
 <div align = "left">
-    <a href= "https://twitter.com/alan_alickovic" target= "_blank" >
-        <img src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a href= "https://www.linkedin.com/in/alan-alickovic/" target= "_blank" >
+    <a href= "https://www.linkedin.com/in/rishab-shrestha-02237a251/" target= "_blank" >
         <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>

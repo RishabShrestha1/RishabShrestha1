@@ -18,7 +18,7 @@
 - 🌱 Building full-stack skills with **React** on the frontend
 - ⚡ Fun fact: I debug with console.log() and I'm not ashamed!
 - 💬 Ask me about **Flutter, Android Development, or Backend Architecture**
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **rishabshrestha92@gmail.com**
 
 <br clear="both">
 

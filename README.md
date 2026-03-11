@@ -24,38 +24,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabShrestha1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" height="180" alt="activity graph" />
 </div>
 
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  
-#### 💻 Languages
-<img src="https://skillicons.dev/icons?i=dart,java,kotlin,js,ts,python,html,css" alt="languages" />
-
-#### 📱 Mobile Development (Professional)
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase" alt="mobile" />
-<br>
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-
-#### 🎨 Frontend (Basic Understanding)
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="frontend" />
-
-#### ⚙️ Backend (Basic Understanding)
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,graphql" alt="backend" />
-
-#### 🤖 AI/ML (Basic Understanding)
-<img src="https://skillicons.dev/icons?i=python,tensorflow" alt="ai-ml" />
-
-#### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" alt="databases" />
-
-#### 🔧 Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,xampp" alt="tools" />
-
-</div>
-
----
 
 ### 🏆 GitHub Trophies
 

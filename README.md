@@ -24,15 +24,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabShrestha1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" height="180" alt="activity graph" />
 </div>
 
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishabShrestha1&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="contribution streak" />
-</div>
-
----
-
 ### 🎯 Current Focus
 ```javascript
 const rishab = {

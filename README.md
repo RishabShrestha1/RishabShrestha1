@@ -21,7 +21,6 @@
 ### 📊 GitHub Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RishabShrestha1&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&custom_title=💻%20Most%20Used%20Languages" height="180" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabShrestha1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" height="180" alt="activity graph" />
 </div>
 
 ### 🎯 Current Focus

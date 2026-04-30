@@ -20,10 +20,6 @@
 
 ### 📊 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RishabShrestha1&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&custom_title=💻%20Most%20Used%20Languages" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishabShrestha1&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="contribution streak" />
 </div>
 
